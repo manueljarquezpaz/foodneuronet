@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-apiKey: "AIzaSyBLjCA0WZPseDx650HfsF6Dyv1Nmylt2hQ",
-authDomain: "checkdvb.firebaseapp.com",
-databaseURL: "https://checkdvb-default-rtdb.firebaseio.com",
-projectId: "checkdvb",
-storageBucket: "checkdvb.appspot.com",
-messagingSenderId: "508217317490",
-appId: "1:508217317490:web:d6730f075c7bf615d88aeb"
+  apiKey: "AIzaSyBxkKIbifvdZAdAoHKq4mS4e7fiwR3mEbA",
+  authDomain: "foodneuronet.firebaseapp.com",
+  databaseURL: "https://foodneuronet-default-rtdb.firebaseio.com",
+  projectId: "foodneuronet",
+  storageBucket: "foodneuronet.appspot.com",
+  messagingSenderId: "857948478467",
+  appId: "1:857948478467:web:fe5bbc048295f40b068236"
 };
 
 firebase.initializeApp(firebaseConfig);
